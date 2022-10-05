@@ -1,0 +1,5 @@
+encryptionsalt: v1:y8025OON92g=:v1:Cv975aVjjDDt0nYT:xUwrys46z0YLQN8X18Y8LRfFeA7oWg==
+config:
+  digitalocean:spaces_access_id: aHqZR0wNaUk1msxYdDGE4iCO2Ciox6r7sWpEiYnQnnI
+  digitalocean:token:
+    secure: v1:ubi4XS7+ggkMouTQ:0mncwrkdzamSzb6hDZY31qbjCpD60pLFEEsEezc928NY+4jdSc1nZoQqhSL8O5n8sNeSQqVGZ93Wr80ufE83aaB94MhjkMXGWA1KSLHOOWYQIZCLD5eh

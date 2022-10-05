@@ -1,0 +1,3 @@
+name: gitpod-pulumi-digitalocean
+description: Pulumi configuration to setup Gitpod in DigitalOcan
+runtime: go
